@@ -1,0 +1,244 @@
+﻿TY  - JOUR
+AD  - Weidmannstraße 61 55131 Mainz. kurthfrankfurt@aol.de
+AN  - 23862187
+AU  - Kurth, A.
+DA  - Jun
+DP  - NLM
+IS  - 6
+KW  - Bone Diseases, Metabolic/*diet therapy
+Bone and Bones/*drug effects
+Calcium/*metabolism
+Female
+Humans
+Malus/*metabolism
+Osteoporosis, Postmenopausal/*prevention & control
+Prunus/*metabolism
+LA  - ger
+N1  - 1433-0431
+Kurth, A
+Comment
+Journal Article
+Germany
+2013/07/19
+Orthopade. 2013 Jun;42(6):453.
+OP  - Getrocknete Pflaumen verbessern die Knochendichte.
+PY  - 2013
+SN  - 0085-4530
+SP  - 453
+ST  - [Dried plums improve bone density]
+T2  - Orthopade
+TI  - [Dried plums improve bone density]
+VL  - 42
+ID  - 813
+ER  - 
+
+TY  - JOUR
+AN  - 13915310
+AU  - Sorokin, G. E.
+DA  - Jan–Feb
+DP  - NLM
+KW  - Animals
+*Diet
+*Diet, Sodium-Restricted
+*Hemodynamics
+Humans
+*Hypertension
+*Malus
+*Nutrition Assessment
+*Nutritional Status
+*Proteins
+*diet, salt-free
+*HYPERTENSION/nutrition and diet
+*PROTEINS/nutrition and diet
+LA  - rus
+N1  - Sorokin, g e
+Journal Article
+Russia (Federation)
+1962/01/01
+Vopr Pitan. 1962 Jan-Feb;21:22-9.
+PY  - 1962
+SN  - 0042-8833 (Print)
+0042-8833
+SP  - 22–9
+ST  - [The effect of animal protein, common salt and food restriction (apples) days on hemodynamics in hypertension]
+T2  - Vopr Pitan
+TI  - [The effect of animal protein, common salt and food restriction (apples) days on hemodynamics in hypertension]
+VL  - 21
+ID  - 1265
+ER  - 
+
+TY  - JOUR
+AN  - 13710272
+AU  - Hackenberg, U.
+DA  - Oct
+DP  - NLM
+KW  - *Diagnosis
+*Food Additives
+Humans
+*Malus
+*Pisum sativum
+*Prunus
+LA  - ger
+N1  - Hackenberg, u
+Journal Article
+Germany
+1960/10/01
+Med Dok. 1960 Oct;4:85-7.
+PY  - 1960
+SN  - 0465-5036 (Print)
+0465-5036
+SP  - 85–7
+ST  - [Definite size classes instead of measurement as peas, cherries and apple sizes in medicine]
+T2  - Med Dok
+TI  - [Definite size classes instead of measurement as peas, cherries and apple sizes in medicine]
+VL  - 4
+ID  - 1000
+ER  - 
+
+TY  - JOUR
+AN  - 13695499
+AU  - Cordero, G.
+DA  - Jul–Aug
+DP  - NLM
+KW  - *Allergens
+*Flavoring Agents
+*Food
+*Food Additives
+*Fruit
+Humans
+*Malus
+*Pharmaceutical Preparations
+*drugs
+LA  - ita
+N1  - Cordero, g
+Journal Article
+Italy
+1960/07/01
+Minerva Farm. 1960 Jul-Aug;9:131-4.
+PY  - 1960
+SP  - 131–4
+ST  - [The apple, food and drug]
+T2  - Minerva Farm
+TI  - [The apple, food and drug]
+VL  - 9
+ID  - 1186
+ER  - 
+
+TY  - JOUR
+AN  - 13347379
+AU  - Vejlens, G.
+DP  - NLM
+IS  - 2
+KW  - Asphyxia/*etiology
+*Dangerous Behavior
+*Food Additives
+*Foreign Bodies
+Humans
+*Larynx
+*Malus
+*ASPHYXIA/etiology and pathogenesis
+*LARYNX/foreign bodies
+LA  - swe
+N1  - Vejlens, g
+Journal Article
+Sweden
+1956/01/01
+Medd Flyg Navalmed Namnd Statens Namnd For Flyg Navalmed Forsk Forsoksvererksamhet. 1956;5(2):49.
+OP  - Ett farligt äpple.
+PY  - 1956
+SP  - 49
+ST  - [A dangerous apple]
+T2  - Medd Flyg Navalmed Namnd Statens Namnd For Flyg Navalmed Forsk Forsoksvererksamhet
+TI  - [A dangerous apple]
+VL  - 5
+ID  - 1050
+ER  - 
+
+TY  - JOUR
+AN  - 14918524
+AU  - Hora, F.
+AU  - Rohan, P.
+DA  - Jan 1
+DP  - NLM
+IS  - 1
+KW  - Ascorbic Acid/*metabolism
+*Carbohydrate Metabolism
+*Malus
+*Oxidoreductases
+*apples
+*oxidases
+*VITAMIN C/metabolism
+LA  - und
+N1  - Hora, f
+Rohan, p
+Journal Article
+Czech Republic
+1952/01/01
+Lek List. 1952 Jan 1;7(1):1-6.
+OP  - Antivitaminy.
+PY  - 1952
+SP  - 1–6
+ST  - [Antivitamins]
+T2  - Lek List
+TI  - [Antivitamins]
+VL  - 7
+ID  - 704
+ER  - 
+
+TY  - JOUR
+AN  - 14815202
+AU  - Thaler, H.
+DA  - Jan 19
+DP  - NLM
+IS  - 3
+KW  - *Diet
+*Food Additives
+Humans
+*Malus
+*apples
+LA  - und
+N1  - Thaler, h
+Journal Article
+Germany
+1951/01/19
+Med Klin. 1951 Jan 19;46(3):81-2.
+OP  - Die wissenschaftlichen Grundlagen der Apfeldiät.
+PY  - 1951
+SN  - 0025-8458 (Print)
+0025-8458
+SP  - 81–2
+ST  - [Scientific basis of apple diet]
+T2  - Med Klin
+TI  - [Scientific basis of apple diet]
+VL  - 46
+ID  - 581
+ER  - 
+
+TY  - JOUR
+AN  - 18911878
+AU  - Bonsmann, M. R.
+AU  - Thomas, B.
+DA  - Dec
+DP  - NLM
+IS  - 12
+KW  - *Malus
+*apples
+LA  - ger
+N1  - Bonsmann, m r
+Thomas, b
+Journal Article
+Germany
+1947/12/01
+Pharmazie. 1947 Dec;2(12):557-9.
+OP  - Die Verwertung von schwarzfaulen Aepfeln.
+PY  - 1947
+SN  - 0031-7144 (Print)
+0031-7144
+SP  - 557–9
+ST  - [The recycling of black rotten apples]
+T2  - Pharmazie
+TI  - [The recycling of black rotten apples]
+VL  - 2
+ID  - 489
+ER  - 
+
